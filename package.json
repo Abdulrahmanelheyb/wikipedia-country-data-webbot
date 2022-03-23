@@ -1,0 +1,31 @@
+{
+  "name": "wikipedia-country-data-webbot",
+  "version": "1.0.0",
+  "description": "Wikipedia ",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulrahmanelheyb/wikipedia-country-data-webbot.git"
+  },
+  "keywords": [
+    "webbot",
+    "country list",
+    "wikipedia country list"
+  ],
+  "author": "Abdulrahman Elheyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulrahmanelheyb/wikipedia-country-data-webbot/issues"
+  },
+  "homepage": "https://github.com/Abdulrahmanelheyb/wikipedia-country-data-webbot#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/selenium-webdriver": "^4.0.18"
+  }
+}
