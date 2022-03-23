@@ -105,3 +105,6 @@ dist
 
 # browser drivers
 drivers
+
+# jetbrains idea directory
+.idea
